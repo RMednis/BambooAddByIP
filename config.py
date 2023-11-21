@@ -12,6 +12,7 @@ PRINTER_USN = "000000000000000"
 # X1 Carbon - "3DPrinter-X1-Carbon"
 # X1        - "3DPrinter-X1"
 # P1P       - "C11"
+# P1S       - "C12"
 PRINTER_DEV_MODEL = "C11"
 
 # Device name... What to show the printer as in the UI
